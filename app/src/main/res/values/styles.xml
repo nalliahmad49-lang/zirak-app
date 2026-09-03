@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.ZirakApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#2C3E91</item>
+        <item name="colorPrimaryDark">#1A2461</item>
+        <item name="colorAccent">#F2C14E</item>
+    </style>
+</resources>
